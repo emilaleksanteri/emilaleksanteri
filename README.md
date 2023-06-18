@@ -6,8 +6,8 @@
 - Interested in the web, my favourite protocol is the WebSocket [here](https://github.com/emilaleksanteri/myWsServer) is a project where a made a server for a chat application
 
 ## 📫 Contact info:
-- Email: ==emilaleksanteri@gmail.com==
-- Discord: ==emilaleksanteri==
+- Email: `emilaleksanteri@gmail.com`
+- Discord: `emilaleksanteri`
 
 ## ⚡ Projects:
 - Instant chat application with some fun WebSocket and AI play [chatApp](https://github.com/emilaleksanteri/chatApp) this uses the forementioned websocket server
