@@ -1,8 +1,16 @@
 ### Emil Lystimaki 🇫🇮
 
+## 💪 Most experience in the following:
+<div style="display: flex;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" style="widht: 50px; height: 50px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" style="widht: 50px; height: 50px;" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="widht: 50px; height: 50px;" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="widht: 50px; height: 50px;" /> 
+</div>
+
 ## 🔭 I am:
 - Full Stack Engineer at [Circular Way](https://circularway.com/), trying to make circular fashion frictionless through tech
-- Passionate about low lever programming languages, currently learning a bit of Rust
+- Passionate about low lever programming languages (although at the moment mostly doing TypeScript), currently learning a bit of Rust
 - Interested in the web, my favourite protocol is the WebSocket [here](https://github.com/emilaleksanteri/myWsServer) is a project where a made a server for a chat application
 
 ## 📫 Contact info:
@@ -14,7 +22,14 @@
 - Haiku generator app to play around with UI design stuff [HaikuForU](https://github.com/emilaleksanteri/HaikuForU)
 - App to post favourite blogs and vote on other peoples blogs on [blogApp](https://github.com/emilaleksanteri/BlogApp)
 
+## 🌱 Looking forward into working with:
+<div style="display: flex;">
+  <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="Rust" style="widht: 50px; height: 50px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" style="widht: 50px; height: 50px;" />  
+</div>
 
+
+<br></br>
 *I currently work full time but if you have any interesting, small-ish contracting opportunities I would be happy to help on the side!*
 <!--
 **emilaleksanteri/emilaleksanteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
