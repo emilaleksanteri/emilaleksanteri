@@ -29,8 +29,6 @@
 </div>
 
 
-<br></br>
-*I currently work full time but if you have any interesting, small-ish contracting opportunities I would be happy to help on the side!*
 <!--
 **emilaleksanteri/emilaleksanteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
