@@ -24,7 +24,6 @@
 
 ## 🌱 Looking forward to working with:
 <div style="display: flex;">
-  <img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" alt="Rust" style="widht: 50px; height: 50px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" style="widht: 50px; height: 50px;" />  
 </div>
 
