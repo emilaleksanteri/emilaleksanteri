@@ -10,7 +10,7 @@
 
 ## 🔭 I am:
 - Full Stack Engineer at [Circular Way](https://circularway.com/), trying to make circular fashion frictionless through tech
-- Passionate about low lever programming languages (although at the moment mostly doing TypeScript), currently learning a bit of Rust
+- Passionate about backend systems and efficient systems (although at the moment mostly doing TypeScript), currently learning Go
 - Interested in the web, my favourite protocol is the WebSocket [here](https://github.com/emilaleksanteri/myWsServer) is a project where a made a server for a chat application
 
 ## 📫 Contact info:
