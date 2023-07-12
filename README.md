@@ -24,7 +24,7 @@
 
 ## 🌱 Looking forward to working with:
 <div style="display: flex;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/64px-Go_Logo_Blue.svg.png" alt="Go" style="widht: 50px; height: 50px;" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/128px-Go_Logo_Blue.svg.png" alt="Go" style="widht: 50px; height: 50px;" />  
 </div>
 
 
