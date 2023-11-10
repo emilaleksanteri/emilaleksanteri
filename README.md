@@ -23,7 +23,7 @@
 
 ## ⚡ Projects:
 - Instant chat application with some fun WebSocket and AI play [chatApp](https://github.com/emilaleksanteri/chatApp) this uses the forementioned websocket server
-- Haiku generator app to play around with UI design stuff [HaikuForU](https://github.com/emilaleksanteri/HaikuForU)
+- A "functional" programming language I made using Go [Monkey Lang](https://github.com/emilaleksanteri/monkey_lang_go)
 - App to post favourite blogs and vote on other peoples blogs on [blogApp](https://github.com/emilaleksanteri/BlogApp)
 
 
