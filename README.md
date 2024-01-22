@@ -13,16 +13,16 @@
 </div>
 
 ## 🔭 I am:
-- Full Stack Engineer at [Circular Way](https://circularway.com/), trying to make circular fashion frictionless through tech
-- Passionate about backend systems and efficient systems (although at the moment mostly doing TypeScript), currently learning Go
-- Interested in the web, my favourite protocol is the WebSocket [here](https://github.com/emilaleksanteri/myWsServer) is a project where a made a server for a chat application
+- A contractor for Common Go W
+- Passionate about backend systems and efficient systems, currently cooking them in Go
+- Interested in the web, my favourite protocol is the WebSocket [recent work](https://github.com/emilaleksanteri/events-board)
 
 ## 📫 Contact info:
 - Email: `emilaleksanteri@gmail.com`
 - Discord: `emilaleksanteri`
 
 ## ⚡ Projects:
-- Instant chat application with some fun WebSocket and AI play [chatApp](https://github.com/emilaleksanteri/chatApp) this uses the forementioned websocket server
+- Instant chat application with some fun WebSocket and AI play [chatApp](https://github.com/emilaleksanteri/chatApp)
 - A "functional" programming language I made using Go [Monkey Lang](https://github.com/emilaleksanteri/monkey_lang_go)
 - CRUD API in Go for browsing movies with Auth [movie api](https://github.com/emilaleksanteri/greenlight-api)
 
