@@ -13,7 +13,7 @@
 </div>
 
 ## 🔭 I am:
-- A contractor for Common Go W
+- A contractor, Common Go W
 - Passionate about backend systems and efficient systems, currently cooking them in Go
 - Interested in the web, my favourite protocol is the WebSocket [recent work](https://github.com/emilaleksanteri/events-board)
 
