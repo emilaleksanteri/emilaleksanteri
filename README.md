@@ -1,15 +1,12 @@
 ### Emil Lystimaki 🇫🇮
 
 ## 💪 Most experience in the following:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilaleksanteri&langs_count=6&hide=javascript,html,jupyter-notebook,css&hide_progress=true&theme=transparent&hide_border=true" />
-</div>
 <div style="display: flex; margin-top: 50px; margin-bottom: 30px;" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png" alt="TypeScript" style="widht: 40px; height: 40px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/64px-Svelte_Logo.svg.png" alt="Svelte" style="widht: 40px; height: 40px;" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/128px-Go_Logo_Blue.svg.png" alt="Go" style="widht: 40px; height: 40px;" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/64px-React-icon.svg.png" alt="React" style="widht: 40px; height: 40px;" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png" alt="Python" style="widht: 40px; height: 40px;" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/60px-Typescript_logo_2020.svg.png" alt="TypeScript" style="widht: 40px; height: 40px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/60px-Svelte_Logo.svg.png" alt="Svelte" style="widht: 40px; height: 40px;" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/120px-Go_Logo_Blue.svg.png" alt="Go" style="widht: 40px; height: 40px;" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/60px-React-icon.svg.png" alt="React" style="widht: 40px; height: 40px;" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/60px-Python-logo-notext.svg.png" alt="Python" style="widht: 40px; height: 40px;" />  
 </div>
 
 ## 🔭 I am:
